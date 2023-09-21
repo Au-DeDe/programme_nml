@@ -1,0 +1,107 @@
+105
+(2) Jack Krauser / 400 Atk + 0 + 0 / 400 Def + 0 + 0 %.
+(2) Ashley Graham / 50 Atk + 0 + 0 / 50 Def + 0 + 0 %.
+(2) Dr. Salvador (Commandant) (0 Exp) : Fusil d'assaut [VL] [CM]. Tronçonneuse. Bouclier balistique. / 25 Atk + 109.375 Pdf + 6.25 Pdc / 25 Def + 90 Arm + 0 %. 
+(2) Albert Wesker (Commandant) (0 Exp) : Winchester [VL] [CM]. Batte de métal. Bouclier balistique. Détecteur-inateur. / 25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 %.  
+(2) Leon S. Kennedy (Commandant) (0 Exp) : Winchester [VL] [CM]. Batte de métal. Bouclier balistique. / 25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 %.
+(2) Rebecca Chambers (Commandant) (0 Exp) : Winchester [VL] [CM]. Batte de métal. Bouclier balistique. / 25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 %.
+(0) (L) Larbin n°1 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°2 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°3 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°4 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°5 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°6 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°7 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°8 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°9 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) (L) Larbin n°10 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0 %.
+(0) Larbin n°11 (0 Exp) : Fusil de sniper léger. / 10 Atk + 15 Pdf (25 %, x2) + 0 Pdc / 10 Def + 3 Arm + 0 %.
+(0) Larbin n°12 (0 Exp) : Fusil de sniper léger. / 10 Atk + 15 Pdf (25 %, x2) + 0 Pdc / 10 Def + 3 Arm + 0 %.
+(0) Larbin n°13 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°14 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %. 
+(0) Larbin n°15 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°16 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°17 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°18 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°19 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°20 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°21 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°22 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°23 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°24 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°25 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°26 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°27 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°28 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°29 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°30 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°31 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°32 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°33 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°34 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°35 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°36 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°37 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°38 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°39 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°40 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°41 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°42 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°43 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°44 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°45 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°46 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°47 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°48 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°49 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°50 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°51 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°52 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°53 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°54 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°55 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°56 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°57 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°58 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°59 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°60 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°61 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°62 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°63 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°64 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°65 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°66 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°67 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°68 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°69 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°70 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°71 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°72 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°73 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°74 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°75 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°76 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°77 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°78 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°79 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°80 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°81 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°82 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°83 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°84 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°85 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°86 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°87 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°88 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°89 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°90 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°91 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°92 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°93 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°94 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°95 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°96 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°97 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°98 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+(0) Larbin n°99 (0 Exp) : aucun équipement. / 10 Atk + 0 + 0 / 10 Def + 0 Arm + 0 %.
+

@@ -1,0 +1,377 @@
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 13 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 13 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°11 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°12 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°13 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°14 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°15 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°16 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°17 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°18 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°19 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°20 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°21 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°22 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°23 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°24 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°25 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°26 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°27 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°28 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°29 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°30 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   Larbin n°1 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°2 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°3 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°4 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°5 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 13 Arm + 0 Esquive.
+   Larbin n°6 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 13 Arm + 0 Esquive.
+   Larbin n°7 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 13 Arm + 0 Esquive.
+   Larbin n°8 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 13 Arm + 0 Esquive.
+   Larbin n°9 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 13 Atk + 48.75 Pdf + 3.25 Pdc / 13 Def + 13 Arm + 0 Esquive.
+   Larbin n°10 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. 13 Atk + 24.375 Pdf + 3.25 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°11 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. 13 Atk + 24.375 Pdf + 3.25 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°12 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°13 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°14 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°15 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°16 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°17 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°18 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°19 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°20 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°21 (0 Exp) : Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°22 (0 Exp) :  Fusil de sniper léger [CM] [C]. 13 Atk + 24.375 Pdf + 0 Pdc / 13 Def + 3.9 Arm + 0 Esquive.
+   Larbin n°23 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°24 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°25 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°26 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°27 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°28 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°29 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°30 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°31 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°32 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°33 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°34 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+   Larbin n°35 (0 Exp) : aucun équipement. 13 Atk / 13 Def + 0 Esquive.
+
+ Total => 1710 Atk + 755.625 Pdf + 314.875 Pdc / 1469 Def + 716.2 Arm.
+
+
+Unités de Alliance : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 10 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 10 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°11 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°12 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°13 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°14 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°15 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°16 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°17 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°18 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°19 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°20 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°21 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°22 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°23 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°24 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°25 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°26 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°27 (2 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°28 (2 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°29 (2 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°30 (2 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   Larbin n°1 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 35 Arm + 0 Esquive.
+   Larbin n°2 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 35 Arm + 0 Esquive.
+   Larbin n°3 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 35 Arm + 0 Esquive.
+   Larbin n°4 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 35 Arm + 0 Esquive.
+   Larbin n°5 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 10 Arm + 0 Esquive.
+   Larbin n°6 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 10 Arm + 0 Esquive.
+   Larbin n°7 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 10 Arm + 0 Esquive.
+   Larbin n°8 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 10 Arm + 0 Esquive.
+   Larbin n°9 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Gilet pare-balles léger. 10 Atk + 37.5 Pdf + 2.5 Pdc / 10 Def + 10 Arm + 0 Esquive.
+   Larbin n°10 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. 10 Atk + 18.75 Pdf + 2.5 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°11 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. 10 Atk + 18.75 Pdf + 2.5 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°12 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°13 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°14 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°15 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°16 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°17 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°18 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°19 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°20 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°21 (0 Exp) : Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°22 (0 Exp) :  Fusil de sniper léger [CM] [C]. 10 Atk + 18.75 Pdf + 0 Pdc / 10 Def + 3 Arm + 0 Esquive.
+   Larbin n°23 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°24 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°25 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°26 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°27 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°28 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°29 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°30 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°31 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°32 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°33 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°34 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+   Larbin n°35 (0 Exp) : aucun équipement. 10 Atk / 10 Def + 0 Esquive.
+
+ Total => 1425 Atk + 581.25 Pdf + 300.625 Pdc / 1184 Def + 611.5 Arm.
+
+
+[32m< -- ! DEBUT DU COMBAT : -- >[0m
+
+[35m< -- ! PHASE DE PDF : -- > [0m
+
+  ... PDF -> UNITS (Ratio) (755.625) -> (0) ...  
+
+  ... PDF -> UNITS (Alliance) (581.25) -> (0) ...  
+
+[35m< -- ! FIN DE PDF : -- > [0m
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 13 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 13 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°11 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°12 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°13 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°14 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°15 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°16 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°17 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°18 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°19 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°20 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°21 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°22 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°23 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°24 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°25 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°26 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°27 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°28 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°29 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°30 (2 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   Larbin n°1 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 0 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°2 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 0 Pdf + 3.25 Pdc / 13 Def + 45.5 Arm + 0 Esquive.
+   Larbin n°3 (0 Exp) : Fusil de sniper lourd [CM] [C] [VL]. Batte de métal. Bouclier balistique. 13 Atk + 0 Pdf + 3.25 Pdc / 13 Def + 41.4499 Arm + 0 Esquive.
+
+ Total => 1294 Atk + 0 Pdf + 288.875 Pdc / 1053 Def + 550.95 Arm.
+
+
+Unités de Alliance : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 84.375 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 10 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 10 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°11 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°12 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°13 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°14 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°15 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°16 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°17 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°18 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°19 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°20 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°21 (3 Exp) : aucun équipement. 20 Atk / 20 Def + 0 Esquive.
+   (J) Voyou n°22 (3 Exp) : aucun équipement. 20 Atk / 3.375 Def + 0 Esquive.
+
+ Total => 915 Atk + 0 Pdf + 273.125 Pdc / 657.375 Def + 382.5 Arm.
+
+
+[35m< -- ! PHASE DE PDC : -- > [0m
+
+  ... PDC -> UNITS (Ratio) (288.875) -> (0) ... 
+
+
+  ... PDC -> UNIT (Alliance) (273.125) -> (0) ... 
+
+[35m< -- ! FIN DE PDC : -- > [0m
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°11 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°12 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°13 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°14 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°15 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°16 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°17 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°18 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°19 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°20 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°21 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°22 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°23 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°24 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°25 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°26 (3 Exp) : aucun équipement. 26 Atk / 26 Def + 0 Esquive.
+   (J) Voyou n°27 (2 Exp) : aucun équipement. 26 Atk / 2.32492 Def + 0 Esquive.
+
+ Total => 1177 Atk + 0 Pdf + 0 Pdc / 912.325 Def + 418.5 Arm.
+
+
+Unités de Alliance : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°6 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°7 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°8 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°9 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 6 Arm + 0 Esquive.
+   (J) Voyou n°10 (3 Exp) : Protection dorsale faite maison. 20 Atk + 0 Pdf + 0 Pdc / 20 Def + 0.5 Arm + 0 Esquive.
+
+ Total => 675 Atk + 0 Pdf + 0 Pdc / 434 Def + 317 Arm.
+
+
+[35m< -- ! PHASE D'ATK : -- > [0m
+
+  ... ATK -> UNITS (Ratio) (1177) -> (922.5) ...  
+
+  ... ATK -> UNITS (Alliance) (675) -> (0) ...  
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk / 24.1249 Def + 0 Esquive.
+
+ Total => 605 Atk + 0 Pdf + 0 Pdc / 362.125 Def + 293.7 Arm.
+
+
+Unités de Alliance : 
+
+   Jack Krauser (0 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (0 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (0 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (0 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+
+ Total => 0 Atk + 0 Pdf + 0 Pdc / 234 Def + 262.5 Arm.
+
+
+  ... ATK -> PERSONNAGES (Ratio) (1177) -> (680.5) ... 
+  ... NO ATK (Alliance) ... 
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk / 24.1249 Def + 0 Esquive.
+
+ Total => 605 Atk + 0 Pdf + 0 Pdc / 362.125 Def + 293.7 Arm.
+
+
+Unités de Alliance : 
+
+  L'armée est vide.
+
+
+[31m< -- ! FIN DU COMBAT -- >[0m
+
+Unités de Ratio : 
+
+   Jack Krauser (400 Atk + 0 Pdf + 0 Pdc / 159 Def + 0 Arm + 0 Esquive.)
+   Pochita (Commandant) (0 Exp) : Winchester [CM] [VL]. Tronçonneuse.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Kishibe (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   Aki Hayakawa (Commandant) (0 Exp) : Winchester [CM] [VL]. Batte de métal.  Bouclier balistique. (25 Atk + 0 Pdf + 0 Pdc / 25 Def + 87.5 Arm + 0 Esquive.)
+   (J) Voyou n°1 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°2 (3 Exp) : Batte de métal. Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°3 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°4 (3 Exp) : Protection dorsale faite maison. 26 Atk + 0 Pdf + 0 Pdc / 26 Def + 7.8 Arm + 0 Esquive.
+   (J) Voyou n°5 (3 Exp) : Protection dorsale faite maison. 26 Atk / 24.1249 Def + 0 Esquive.
+
+ Total => 605 Atk + 0 Pdf + 0 Pdc / 362.125 Def + 293.7 Arm.
+
+
+Unités de Alliance : 
+
+  L'armée est vide.
+

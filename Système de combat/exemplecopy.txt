@@ -1,0 +1,9 @@
+6
+(2) Le Ventriloque / 200 Atk + 3 Pdf + 1 Pdc / 350 Def + 190 Arm + 0 Esquive. 
+(0) Larbin n°1 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) Larbin n°2 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) Larbin n°3 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) Larbin n°4 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) Larbin n°5 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+
+// 0 = unité | 1 = Batiments | 2 = Lieutenant et Personnage principal | 3 = QG. 

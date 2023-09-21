@@ -1,0 +1,10 @@
+7
+(2) Le Ventriloque / 200 Atk + 0 Pdf + 0 Pdc / 350 Def + 190 Arm + 12 % E. 
+(1) Cache d'Arme : / 100 Atk + 0 Pdf + 0 Pdc / 100 Def + 0 Arm + 0 E.
+(0) (R) (L) Larbin n°a1 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf (30 % Crit, x2) + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) (T) (F) Larbin n°a2 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 5 Pdf (Crit 20 %, x2,5) + 5 Pdc / 10 Def + 50 Arm + 20 Esquive.
+(0) (R) Larbin n°3 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 0 + 0 / 10 Def + 0 + 0 %.
+(0) (FT) Larbin n°4 (0 Exp) : Pistolet 9mm. Barre de fer. Protège-dents. / 10 Atk + 0 + 0 / 10 Def + 0 + 0 %.
+(0) (L) Larbin n°8 (0 Exp) : Fusil de sniper léger [CM] [C]. Batte de métal. Gilet pare-balles léger. / 10 Atk + 28.125 Pdf (30 % Crit, x2) + 2.5 Pdc / 10 Def + 9.5 Arm + 0.
+
+// 0 = unité | 1 = Batiments | 2 = Lieutenant et Personnage principal | 3 = QG. 
